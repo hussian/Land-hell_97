@@ -1,7 +1,7 @@
 do local _ = {
-  about_text = "Teleseed v4\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/SEEDTEAM/TeleSeed\n\nAdmins\n@iwals [Founder]\n@imandaneshi [Developer]\n@POTUS [Developer]\n@seyedan25 [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\n@teleseedch [English]\n@iranseed [persian]\n\nOur website \nhttp://teleseed.seedteam.org/\n",
+  about_text = "Teleseed v4\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/hussian/Land-hell_97\n\nAdmins\n@iwals [Founder]\n@imandaneshi [Developer]\n@POTUS [Developer]\n@seyedan25 [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\n@teleseedch [English]\n@iranseed [persian]\n\nOur website \nhttp://teleseed.seedteam.org/\n",
   enabled_plugins = {
-    "4",
+   "4",
     "APICLI",
     "Reply",
     "addbot1",
@@ -120,7 +120,7 @@ do local _ = {
   },
   sudo_users = {
     73928866,
-    125503829
+    250180860,
   }
 }
 return _
